@@ -6,6 +6,10 @@ Some leaked fortnite external/internal and Valorant sources i found in servers a
 Make sure you doublecheck them for rats!!!!
 I will also add more the next days.
 
+# Source repo
+
+Enigma public selfleak https://github.com/l1nky-1337/Enigma-Public-Selfleak
+
 # Usefull stuff
 
 Latest skd https://github.com/ReadProcessMemory/fortnite-offsets-sdk
