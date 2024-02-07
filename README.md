@@ -12,7 +12,7 @@ Latest skd https://github.com/ReadProcessMemory/fortnite-offsets-sdk
 
 Latest offsets https://github.com/paysonism/Fortnite-Offsets
 
-More sources @l1nky-1337
+More sources [@l1nky-1337](https://github.com/l1nky-1337)
 
 # Credits 
 
