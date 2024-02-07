@@ -14,6 +14,8 @@ Ethify https://github.com/stdfax/Ethify-Fortnite-External/tree/main
 
 vane.cc https://github.com/SkarSys/Vane.cc-Skar-Fortnite-self-leak
 
+Timefn https://github.com/SoarCheats/Updated-FN-Source
+
 # Usefull stuff
 
 Latest skd https://github.com/ReadProcessMemory/fortnite-offsets-sdk
