@@ -32,6 +32,12 @@ Subzero: https://discord.gg/subz
 
 Frozenfn: https://discord.gg/frozenfn
 
+# Tutorials
+
+https://www.youtube.com/@pastingschool
+
+https://www.youtube.com/@hfromcapware
+
 
 
 
