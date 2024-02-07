@@ -12,6 +12,8 @@ Latest skd https://github.com/ReadProcessMemory/fortnite-offsets-sdk
 
 Latest offsets https://github.com/paysonism/Fortnite-Offsets
 
+More sources @l1nky-1337
+
 # Credits 
 
 Enigmasolutions: https://discord.gg/enigmacheats
@@ -19,6 +21,8 @@ Enigmasolutions: https://discord.gg/enigmacheats
 Subzero: https://discord.gg/subz
 
 Frozenfn: https://discord.gg/frozenfn
+
+
 
 
 
