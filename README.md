@@ -10,6 +10,10 @@ I will also add more the next days.
 
 Enigma public selfleak https://github.com/l1nky-1337/Enigma-Public-Selfleak
 
+Ethify https://github.com/stdfax/Ethify-Fortnite-External/tree/main
+
+vane.cc https://github.com/SkarSys/Vane.cc-Skar-Fortnite-self-leak
+
 # Usefull stuff
 
 Latest skd https://github.com/ReadProcessMemory/fortnite-offsets-sdk
