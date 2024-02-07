@@ -1,5 +1,25 @@
-# Cheatarchive
+# Fortnite Cheatarchive
 
-Some random fortnite externals that can be updated and used again before you do anything please make sure you doublecheck them i did not do that!!
+Some leaked fortnite external/internal and Valorant sources i found in servers and my drives.
 
-More? Join https://discord.gg/frozenfn
+# Info
+Make sure you doublecheck them for rats!!!!
+I will also add more the next days.
+
+# Usefull stuff
+
+Latest skd https://github.com/ReadProcessMemory/fortnite-offsets-sdk
+
+Latest offsets https://github.com/paysonism/Fortnite-Offsets
+
+# Credits 
+
+Enigmasolutions: https://discord.gg/enigmacheats
+
+Subzero: https://discord.gg/subz
+
+Frozenfn: https://discord.gg/frozenfn
+
+
+
+
