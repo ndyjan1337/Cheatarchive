@@ -3,8 +3,7 @@
 Some leaked fortnite external/internal and Valorant sources i found in servers and my drives.
 
 # Info
-Make sure you doublecheck them for rats!!!!
-I will also add more the next days.
+Check for rats
 
 # Source repo
 
