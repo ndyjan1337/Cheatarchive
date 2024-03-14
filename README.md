@@ -17,7 +17,8 @@ Timefn https://github.com/SoarCheats/Updated-FN-Source
 
 # Usefull stuff
 
-Latest skd https://github.com/ReadProcessMemory/fortnite-offsets-sdk
+Latest sdk
+https://github.com/ReadProcessMemory/fortnite-offsets-sdk
 
 Latest offsets https://github.com/paysonism/Fortnite-Offsets
 
