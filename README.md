@@ -30,8 +30,6 @@ Enigmasolutions: https://discord.gg/enigmacheats
 
 Subzero: https://discord.gg/subz
 
-Frozenfn: https://discord.gg/frozenfn
-
 # Tutorials
 
 https://www.youtube.com/@pastingschool
