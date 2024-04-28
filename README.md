@@ -2,9 +2,6 @@
 
 Some leaked fortnite external/internal and Valorant sources i found in servers and my drives.
 
-# Info
-Check for rats
-
 # Source repo
 
 Enigma public selfleak https://github.com/l1nky-1337/Enigma-Public-Selfleak
@@ -29,6 +26,8 @@ More sources [@l1nky-1337](https://github.com/l1nky-1337)
 Enigmasolutions: https://discord.gg/enigmacheats
 
 Subzero: https://discord.gg/subz
+
+Saturn IV: https://discord.gg/saturniv
 
 # Tutorials
 
