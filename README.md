@@ -10,9 +10,32 @@
     <a href="https://discord.gg/nexustools">Discord</a>
   </p>
 
+# Tags
+```internal```
+```data```
+```hack```
+```discord ```
+```driver ```
+```external ```
+```ioctl ```
+```cheats ```
+```cracked ```
+```fortnite spoofer ```
+```fortnitehack ```
+```fortnite-esp ```
+```valorant-driver ```
+```spoofer-eac ```
+```spoofer-valorant ```
+```fortniteexternal ```
+```fortnite-driver-source ```
+```fortnit-driver-leak ```
+```fortnitedriver```
+
 # Fortnite Cheatarchive
 
-> Some leaked sources. Fortnite ext/int, Spoofer perm/temp Valorant ext/int.
+```sh 
+Some leaked sources. Fortnite ext/int, Spoofer perm/temp Valorant ext/int.
+```
 
 > [!Warning]
 > Please make sure you doublecheck the sources for rats. Look closely into proj file and drivers
