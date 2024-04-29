@@ -10,6 +10,12 @@
     <a href="https://discord.gg/nexustools">Discord</a>
   </p>
 
+  <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://discord.com/users/1202026685789393026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="subzerofn" height="30" 
+<a href="https://www.youtube.com/@ndyjann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="p-denny" height="30" width="40" /></a>
+</p>
+
 # Tags
 ```internal```
 ```data```
