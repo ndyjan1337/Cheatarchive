@@ -31,7 +31,7 @@ Some leaked sources. Fortnite ext/int, Spoofer perm/temp Valorant ext/int.
 > [!Warning]
 > Doublecheck for rats! These sources are just reposted and sorted out (check .vcxproj file for externally downloads, .lib files)
 
-# The sources are heavily outdated after the newest Update so you will have to implement this into your paste to get it working.
+# The sources are heavily outdated after the newest update so you will have to implement this into your paste to get it working.
 > Main.cpp: (code to read out "dynamic_uworld" this it very important!)
 ```c++
 int64 va_text = 0;
