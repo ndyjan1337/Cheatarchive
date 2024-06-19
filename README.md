@@ -69,7 +69,7 @@ for (int i = 0; i < 25; i++)
 	if ((driver.read<int32>(base_address + (i * 0x1000) + 0x250)) == 0x260E020B)
 	{
 		va_text = base_address + ((i + 1) * 0x1000);
-		dynamic_uworld = offset::uworld + va_text;
+		dynamic_uworld = offset::uworld + va_text; //offset::uworld or 0x129DEDD8 (19.06.24)
 	}
 ```
 Cache.h (read uworld using the premade "dynamic_uworld")
