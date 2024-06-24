@@ -53,6 +53,11 @@ arrays->uworld = driver.read<uintptr_t>(dynamic_uworld);
 __int64 dynamic_uworld;
 ```
 
+```json
+dynamic_uworld tested (24.06.24)
+state: Working
+```
+
 # Credits 
 
 [Enigmasolutions](https://discord.gg/V6uAKyu4KP)
