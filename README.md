@@ -62,6 +62,8 @@ state: Working
 
 [Enigmasolutions](https://discord.gg/V6uAKyu4KP)
 
+Support Discord: @ndyjan1336 or https://discord.com/users/1252627679392305162
+
 
 
 
