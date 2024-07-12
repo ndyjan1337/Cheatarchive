@@ -54,7 +54,7 @@ __int64 dynamic_uworld;
 ```
 
 ```json
-dynamic_uworld tested (24.06.24)
+dynamic_uworld tested (12.07.24)
 state: Working
 ```
 
