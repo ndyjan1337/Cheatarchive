@@ -34,13 +34,15 @@ Some leaked sources. Fortnite ext/int, Spoofer perm/temp Valorant ext/int.
 # The sources are heavily outdated after the newest update so you will have to implement this into your paste to get it working.
 > Main.cpp: (code to read out "dynamic_uworld" this it very important!)
 ```c++
-int64 va_text = 0;
-for (int i = 0; i < 25; i++)
-	if ((driver.read<int32>(base_address + (i * 0x1000) + 0x250)) == 0x260E020B)
+__int64 va_text = 0;
+for (int i = 0; i < 25; i++) {
+	if ((read<__int32>(virtualaddy + (i * 0x1000) + 0x250)) == 0x260E020B)
 	{
-		va_text = base_address + ((i + 1) * 0x1000);
-		dynamic_uworld = offset::uworld + va_text; //offset::uworld or 0x129DEDD8 (19.06.24)
+
+		va_text = virtualaddy + ((i + 1) * 0x1000);
+		dynamic_uworld = offset::uworld + va_text;
 	}
+}
 ```
 
 > Cache.h (read uworld using the premade "dynamic_uworld")
@@ -54,7 +56,7 @@ __int64 dynamic_uworld;
 ```
 
 ```json
-dynamic_uworld tested (12.07.24)
+dynamic_uworld tested (25.07.24)
 state: Working
 ```
 
