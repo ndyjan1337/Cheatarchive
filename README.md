@@ -37,7 +37,7 @@ Some leaked sources. Fortnite ext/int, Spoofer perm/temp Valorant ext/int.
 
 # Credits 
 
-Support Discord: @ndyjan or https://discord.com/users/1308884968067305523
+Support Discord: @ndyjan1337
 
 
 
